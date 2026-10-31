@@ -56,9 +56,9 @@ uv run python manage.py runserver
 
 1. Create your local `.env` file from the template:
 
-```bash
-cp .env.example .env
-```
+   ```bash
+   cp .env.example .env
+   ```
 
 Add your credentials in `.env`:
 
